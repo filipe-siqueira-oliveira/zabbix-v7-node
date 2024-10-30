@@ -1,0 +1,1 @@
+# zabbix-v7-node
